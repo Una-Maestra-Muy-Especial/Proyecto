@@ -1,4 +1,4 @@
-# 🌟 README - Nueva Web Una Maestra Muy Especial
+# 🌟 Nueva Web Una Maestra Muy Especial
 
 ## 📖 Descripción del Proyecto
 
