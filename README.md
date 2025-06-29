@@ -16,12 +16,12 @@ Rediseño y desarrollo de la nueva página web para **Una Maestra Muy Especial**
 ## 🎨 Recursos de Diseño
 
 ### 🎭 Figma
-- **Diseños UI/UX**: [Ver prototipo en Figma](https://www.figma.com/file/ABC123ejemplo/Una-Maestra-Muy-Especial-Redesign)
+- **Diseños UI/UX**: [Ver prototipo en Figma](https://www.figma.com/team_invite/redeem/SpJoQgy09LsgO195LeUv4K)
 - Incluye wireframes, mockups y sistema de diseño
 - Versiones desktop, tablet y móvil
 
 ### 📂 Documentación
-- **Drive del proyecto**: [Acceder a Drive](https://drive.google.com/drive/folders/1ABC123ejemplo-Una-Maestra-Muy-Especial)
+- **Drive del proyecto**: [Acceder a Drive](https://drive.google.com/drive/folders/1Ib0DYVnVo9ecoxIx58vH4nopq9R4OEUc?usp=share_link)
 - Contiene briefing, referencias, assets y documentación técnica
 
 ## 🛠️ Plugins y Extensiones
